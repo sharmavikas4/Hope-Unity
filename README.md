@@ -1,2 +1,0 @@
-# Hope-Unity
-Foundation
